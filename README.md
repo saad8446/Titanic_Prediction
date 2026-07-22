@@ -61,11 +61,9 @@ The preprocessed dataset is saved as `titanic_cleaned_for_ml.csv` and contains p
 
 ---
 
-## 🚀 Next Steps: Model Training (Coming Soon)
-The next phase of this project will involve:
+## 🚀 Model Training 
 1. Splitting the cleaned data into Training and Testing sets (`train_test_split`).
 2. Training and comparing multiple Machine Learning models:
    * **Distance-based:** Logistic Regression, K-Nearest Neighbors (KNN)
-   * **Tree-based:** Decision Trees, Random Forests
 3. Evaluating performance using Accuracy, Precision, Recall, and F1-Score.
-4.
+
